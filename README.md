@@ -2,9 +2,11 @@
 
 # Beautify Site
 
+### Made in [Omniscio](https://omniscio.com)
+
 **Make any website look professionally designed: bold, coherent, and free of the tell-tale signs of AI-generated design.**
 
-A skill for [Claude Code](https://code.claude.com/docs/en/skills) that redesigns a page the way a designer would. It picks a direction first, fits components to it, adds motion, then audits the result.
+A skill for [Claude Code](https://code.claude.com/docs/en/skills) that redesigns a page the way a designer would. It picks a direction first, fits components to it, adds motion, then audits the result. It comes built into [Omniscio](https://omniscio.com), a desktop app for managing many AI coding sessions from one place.
 
 [![Made in Omniscio](https://img.shields.io/badge/made_in-Omniscio-06070B.svg)](https://omniscio.com)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -15,8 +17,6 @@ A skill for [Claude Code](https://code.claude.com/docs/en/skills) that redesigns
 </div>
 
 ---
-
-> **Made in [Omniscio](https://omniscio.com).** Beautify Site was built in Omniscio, a desktop app for managing many AI coding sessions from one place, and it comes included with the app.
 
 ## Use it in Omniscio
 
