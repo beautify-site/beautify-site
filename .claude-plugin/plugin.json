@@ -1,0 +1,13 @@
+{
+  "name": "beautify-site",
+  "version": "1.0.0",
+  "description": "Make any website look professionally designed: settle one bold design direction, fit components to it, add purposeful motion, then strip every tell-tale sign of AI-generated design.",
+  "author": {
+    "name": "Beautify Site contributors",
+    "url": "https://github.com/beautify-site"
+  },
+  "homepage": "https://github.com/beautify-site/beautify-site",
+  "repository": "https://github.com/beautify-site/beautify-site",
+  "license": "MIT",
+  "keywords": ["design", "web-design", "ui", "frontend", "design-system", "motion", "tailwind"]
+}

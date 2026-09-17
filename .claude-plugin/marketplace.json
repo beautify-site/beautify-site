@@ -1,0 +1,14 @@
+{
+  "name": "beautify-site",
+  "description": "The Beautify Site skill for Claude Code: make any website look professionally designed.",
+  "owner": {
+    "name": "Beautify Site contributors"
+  },
+  "plugins": [
+    {
+      "name": "beautify-site",
+      "source": "./",
+      "description": "Make any website look professionally designed: settle one bold design direction, fit components to it, add purposeful motion, then strip every tell-tale sign of AI-generated design."
+    }
+  ]
+}
